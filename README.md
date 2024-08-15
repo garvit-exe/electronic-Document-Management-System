@@ -1,8 +1,8 @@
 # Internet and Web Programming Project
 
-### This project has been developed by Garvit (22BCE10667) for the course CSE4001 - Internet and Web Programming under the guidance of Dr. G. Prabu Kanna
+#### This project has been developed by Garvit (22BCE10667) for the course CSE4001 - Internet and Web Programming under the guidance of Dr. G. Prabu Kanna
 
-### Source Code - [electronic Document Management System](https://github.com/garvit-exe/electronic-Document-Management-System)
+**Source Code - [electronic Document Management System](https://github.com/garvit-exe/electronic-Document-Management-System)**
 
 #### Project Description
 
@@ -37,15 +37,15 @@ It has a user module - Users can register with valid details. After registration
 
 1. Download the project zip file
 
-2. Extract the file and copy 'edms' folder
+2. Extract the file and copy `edms` folder
 
 3. Paste inside root directory (for xampp - xampp/htdocs, for wamp - wamp/www, for lamp - var/www/Html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with the name 'edmsdb'
+5. Create a database with the name `edmsdb`
 
-6. Import 'edmsdb.sql' file (given inside the zip package in the 'SQL File' folder)
+6. Import `edmsdb.sql` file (given inside the zip package in the `SQL File` folder)
 
 7. Open the project (http://localhost/edms)
 
