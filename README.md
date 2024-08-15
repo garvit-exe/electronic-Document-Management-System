@@ -1,10 +1,10 @@
 # Internet and Web Programming Project
 
-## This project has been developed by Garvit (22BCE10667) for the course CSE4001 - Internet and Web Programming under the guidance of Dr. G. Prabu Kanna
+### This project has been developed by Garvit (22BCE10667) for the course CSE4001 - Internet and Web Programming under the guidance of Dr. G. Prabu Kanna
 
-## Source Code - [electronic Document Management System](https://github.com/garvit-exe/electronic-Document-Management-System)
+### Source Code - [electronic Document Management System](https://github.com/garvit-exe/electronic-Document-Management-System)
 
-### Project Description
+#### Project Description
 
 electronic Document Management Project is a web-based application using PHP and MySQL. Users can register and create, categories, and notes.
 
@@ -24,15 +24,16 @@ It has a user module - Users can register with valid details. After registration
 
 - Users can also recover their own password.
 
-### Project Requirements
+#### Project Requirements
 
 | Project Name | electronic Document Management System |
+| :--- | :--- |
 | Languages Used | PHP |
 | Database | MySQL |
 | UI Design | HTML, JavaScript, JQuery, AJAX |
 | Software Required | XAMPP/WAMP/MAMP/LAMP |
 
-### How to run the e-Document Management System Project using PHP and MySQL
+#### How to run the e-Document Management System Project using PHP and MySQL
 
 1. Download the project zip file
 
@@ -44,7 +45,7 @@ It has a user module - Users can register with valid details. After registration
 
 5. Create a database with the name 'edmsdb'
 
-6. Import edmsdb.sql file (given inside the zip package in the 'SQL File' folder)
+6. Import 'edmsdb.sql' file (given inside the zip package in the 'SQL File' folder)
 
 7. Open the project (http://localhost/edms)
 
