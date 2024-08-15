@@ -8,17 +8,33 @@
 
 electronic Document Management Project is a web-based application using PHP and MySQL. Users can register and create, categories, and notes.
 
+![](Screenshots/dashboardUpdated.jpg)
+
 It has a user module - Users can register with valid details. After registration user will be able to log in with a registered email id/mobile no and password.
 
 - **Dashboard:** In this section, the user can briefly view information about categories, and notes, and also view 5 latest notes.
 
+![](Screenshots/dashboard.jpg)
+
 - **Category:** In this section, user can mange Category(Add/Update/Delete).
+
+![](Screenshots/addCategory.jpg)
+![](Screenshots/manageCategory.jpg)
 
 - **Notes:** In this section, the user can add, view, and delete the note. User can also update the note history.
 
+![](Screenshots/addNote.jpg)
+![](Screenshots/manageNote.jpg)
+![](Screenshots/addNoteDetails.jpg)
+![](Screenshots/viewNote.jpg)
+
 - **Change Password:** In this section, User can change their own login password.
 
+![](Screenshots/changePassword.jpg)
+
 - **My Profile:** In this section, the user can update their own profile.
+
+![](Screenshots/updateProfile.jpg)
 
 - **Search:** In this section, users can search for the note by entering the title.
 
@@ -43,11 +59,15 @@ It has a user module - Users can register with valid details. After registration
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
+![](Screenshots/phpmyadmin.jpg)
+
 5. Create a database with the name `edmsdb`
 
 6. Import `edmsdb.sql` file (given inside the zip package in the `SQL File` folder)
 
 7. Open the project (http://localhost/edms)
+
+![](Screenshots/index.jpg)
 
 User Credential
 Username: johndoe@gmail.com or 1221121212
